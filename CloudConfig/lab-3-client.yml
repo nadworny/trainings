@@ -1,6 +1,2 @@
-lucky-word:
-    - Irish
-    - Rabbit's Foot
-    - Serendipity
-    - Serendipity2
+lucky-word: "Irish, Rabbit's Foot, Serendipity, Serendipity2"
 location: world
