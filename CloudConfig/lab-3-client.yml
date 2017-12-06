@@ -1,2 +1,6 @@
 lucky-word: "Irish, Rabbit's Foot, Serendipity2"
 location: world
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8010/eureka/
